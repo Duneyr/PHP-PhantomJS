@@ -1,5 +1,5 @@
 {
-	"name": "hybridlogic/phantomjs",
+	"name": "Duneyr/PHP-PhantomJS",
 	"description": "A PHP library to execute PhantomJS scripts and return their results.",
 	"keywords": ["phantomjs"],
 	"homepage": "https://github.com/Dachande663/PHP-PhantomJS",
