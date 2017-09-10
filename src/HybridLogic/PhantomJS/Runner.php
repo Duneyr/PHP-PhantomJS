@@ -16,7 +16,7 @@ class Runner {
 	/**
 	 * @var string Path to phantomjs binary
 	 **/
-	private $bin = '/usr/local/bin/phantomjs';
+	private $bin = '/usr/bin/phantomjs';
 
 
 	/**
